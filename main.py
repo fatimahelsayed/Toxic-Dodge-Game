@@ -104,7 +104,8 @@ def main():
             #place the text in the middle of the screen
             WIN.blit(lost_text, (WIDTH/2 - lost_text.get_width()/2, HEIGHT/2 - lost_text.get_height()/2)) 
             pygame.display.update()
-            pygame.time.delay(4000)
+            pygame.time.delay(400)
+            break
             
         draw(player, elapsed_time, toxins)
 
