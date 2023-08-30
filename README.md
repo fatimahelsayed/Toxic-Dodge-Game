@@ -1,5 +1,5 @@
 <h1>Toxic Dodge</h1>
-a mini game about a spaceship (the player) that is being attacked by rockets, and in order to survive, it has to dodge and avoid anything coming in its way [Toxic Dodge](https://github.com/fatimahelsayed/Toxic-Dodge-Game)
+a mini game about a spaceship (the player) that is being attacked by rockets, and in order to survive, it has to dodge and avoid anything coming in its way
 
  I decided to use up my free time to expand my knowledge in **python, pygame**
 
